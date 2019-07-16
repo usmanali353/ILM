@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
                 if(ingredients.getText().toString().isEmpty()){
                     Toast.makeText(MainActivity.this,"Enter atleast one ingredient",Toast.LENGTH_LONG).show();
                 }else{
-                    firebase_operations.add_halal_ingredients_to_firebase(ingredients.getText().toString(),halal_ref);
+                    firebase_operations.add_halal_ingredients_to_firebase(ingredients.getText().toString(),halal_ref,MainActivity.this);
                 }
             }
         }).setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -163,7 +163,7 @@ public class MainActivity extends AppCompatActivity {
                 if(ingredients.getText().toString().isEmpty()){
                     Toast.makeText(MainActivity.this,"Enter atleast one ingredient",Toast.LENGTH_LONG).show();
                 }else{
-                    firebase_operations.add_haram_ingredients_to_firebase(ingredients.getText().toString(),haram_ref);
+                    firebase_operations.add_haram_ingredients_to_firebase(ingredients.getText().toString(),haram_ref,MainActivity.this);
                 }
             }
         }).setNegativeButton("Cancel", new DialogInterface.OnClickListener() {

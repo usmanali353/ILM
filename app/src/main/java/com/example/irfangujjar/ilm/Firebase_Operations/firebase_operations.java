@@ -53,19 +53,20 @@ public class firebase_operations {
             }
         });
     }
-    public static void add_halal_ingredients_to_firebase(String ingredients,CollectionReference halal_ref){
+    public static void add_halal_ingredients_to_firebase(String ingredients,CollectionReference halal_ref,Context context){
 
         Halal h=new Halal(Arrays.asList(ingredients.split(",")));
         for (int i=0;i<h.getHalal_ingredients().size();i++) {
             halal_ref.document("fGVMhkIEu7uXPYKKaGhO").update("halal_ingredients", FieldValue.arrayUnion(h.getHalal_ingredients().get(i)));
         }
+        Toast.makeText(context,"Halal Ingredients Added to the System",Toast.LENGTH_LONG).show();
     }
-    public static void add_haram_ingredients_to_firebase(String ingredients,CollectionReference haram_ref){
+    public static void add_haram_ingredients_to_firebase(String ingredients,CollectionReference haram_ref,Context context){
         Haram h=new Haram(Arrays.asList(ingredients.split(",")));
         for(int i=0;i<h.getHaram_ingredients().size();i++){
             haram_ref.document("m41QMFowL4cNTNOA1Wrk").update("haram_ingredients",FieldValue.arrayUnion(h.getHaram_ingredients().get(i)));
         }
-
+        Toast.makeText(context,"Haram Ingredients Added to the System",Toast.LENGTH_LONG).show();
     }
     public static void compare_ingredients_for_halal_haram(CollectionReference halal_ref, final CollectionReference haram_ref, final List<String> product_ingredients, final Context context){
         final android.app.AlertDialog waiting_dialog=new SpotsDialog.Builder().setContext(context).build();

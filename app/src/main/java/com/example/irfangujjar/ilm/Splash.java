@@ -31,6 +31,7 @@ SharedPreferences prefs;
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(Splash.this,Login_page.class));
+                finish();
             }
         });
     }
