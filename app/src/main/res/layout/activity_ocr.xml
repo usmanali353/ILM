@@ -9,7 +9,8 @@
      android:layout_width="match_parent"
      android:layout_height="300dp"
      android:id="@+id/ocr_image"
-     android:src="@mipmap/ic_launcher"
+     android:scaleType="fitXY"
+     android:src="@drawable/upload_image"
      />
     <Button
         android:layout_width="match_parent"
