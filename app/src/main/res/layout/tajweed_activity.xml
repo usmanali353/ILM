@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/tajweedback"
+    tools:context=".tajweed.Tajweed_activity"
+    >
+
+
+    <Button
+        android:id="@+id/btnramuzeauqaf"
+        android:textSize="25dp"
+        android:text="Ramooz-e-Auqaf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundcorner_tajweed"
+        android:textColor="#fdfcfc"
+
+        />
+    <Button
+        android:id="@+id/btnthroatal"
+        android:textSize="25dp"
+        android:text="Throatal words"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundcorner_tajweed"
+        android:textColor="#fdfcfc"
+        />
+    <Button
+        android:id="@+id/btnwhistling"
+        android:textSize="25dp"
+        android:text="Whistling Words"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundcorner_tajweed"
+        android:textColor="#fdfcfc"
+
+        />
+    <Button
+        android:id="@+id/btnprolonging"
+        android:textSize="25dp"
+        android:text="Prolonging words"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundcorner_tajweed"
+        android:textColor="#fdfcfc"
+
+        />
+    <Button
+        android:id="@+id/btnecho"
+        android:textSize="25dp"
+        android:text="Echo Letters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundcorner_tajweed"
+        android:textColor="#fdfcfc"
+
+        />
+    <Button
+        android:id="@+id/btnghunnah"
+        android:textSize="25dp"
+        android:text="Ghunnah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundcorner_tajweed"
+        android:textColor="#fdfcfc"
+
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Scholars.Islamicscholars_activity">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/btnZakir"
+        android:layout_width="119dp"
+        android:layout_height="109dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/btnBiliphilips"
+        android:layout_marginStart="48dp"
+        android:src="@drawable/tariqmsood"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="48dp" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/btnBiliphilips"
+        android:layout_width="119dp"
+        android:layout_height="109dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="47dp"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/bilil_philips"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp"
+        app:srcCompat="@drawable/tariqmsood"
+        android:layout_marginRight="47dp"
+        android:layout_alignParentRight="true" />
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/btnMuftimenk"
+        android:layout_width="119dp"
+        android:layout_height="109dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnBiliphilips"
+        android:layout_marginBottom="89dp"
+        android:src="@drawable/muftimenk"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp"
+        app:srcCompat="@drawable/tariqmsood"
+        android:layout_alignLeft="@+id/btnBiliphilips" />
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/btnOmersuleiman"
+        android:layout_width="119dp"
+        android:layout_height="109dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/btnBiliphilips"
+        android:layout_marginTop="217dp"
+        android:src="@drawable/yusufestate"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp"
+        app:srcCompat="@drawable/tariqmsood"
+        android:layout_alignLeft="@+id/btnBiliphilips" />
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/btnSaqib"
+        android:layout_width="119dp"
+        android:layout_height="109dp"
+        android:layout_alignStart="@+id/btnZakir"
+        android:layout_alignTop="@+id/btnMuftimenk"
+        android:src="@drawable/saqib"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp"
+        app:srcCompat="@drawable/tariqmsood"
+        android:layout_alignLeft="@+id/btnZakir" />
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/btnTariqJameel"
+        android:layout_width="114dp"
+        android:layout_height="113dp"
+        android:layout_alignStart="@+id/btnZakir"
+        android:layout_alignTop="@+id/btnOmersuleiman"
+        android:background="@drawable/circle_button"
+        android:src="@drawable/tarijameel"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp"
+        app:srcCompat="@drawable/bilil_philips"
+        tools:ignore="RtlCompat" />
+        />
+
+</RelativeLayout>

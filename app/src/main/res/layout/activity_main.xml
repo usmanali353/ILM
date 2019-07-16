@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    tools:context=".MainActivity"
+     >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ilm"
+    >
+     <include
+         layout="@layout/toolbar"
+         />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"></View>
+
+
+    <Button
+        android:id="@+id/tajweed_button"
+        android:layout_width="124dp"
+        android:layout_height="128dp"
+        android:layout_alignBottom="@+id/halal_button"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/circle_button"
+        android:text="Tajweed"
+        android:textSize="20dp"
+        tools:ignore="UnknownId"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="50dp" />
+
+    <Button
+        android:id="@+id/halal_button"
+        android:layout_width="129dp"
+        android:layout_height="128dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="149dp"
+        android:background="@drawable/circle_button"
+        android:text="halal scanner"
+        android:textSize="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="50dp" />
+
+    <Button
+        android:id="@+id/mosque_button"
+        android:layout_width="124dp"
+        android:layout_height="127dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/halal_button"
+        android:layout_marginBottom="109dp"
+        android:background="@drawable/circle_button"
+        android:text="Mosque Indicator"
+        android:textSize="20dp"
+        android:layout_alignLeft="@+id/halal_button" />
+
+    <Button
+        android:id="@+id/scholar_button"
+        android:layout_width="127dp"
+        android:layout_height="129dp"
+        android:layout_alignEnd="@+id/tajweed_button"
+        android:layout_alignTop="@+id/mosque_button"
+        android:background="@drawable/circle_button"
+        android:text="Islamic Scholars"
+        android:textSize="20dp"
+        android:layout_alignRight="@+id/tajweed_button" />
+
+    <Button
+        android:id="@+id/ocr_button"
+        android:layout_width="127dp"
+        android:layout_height="129dp"
+        android:background="@drawable/circle_button"
+        android:text="OCR"
+        android:layout_centerInParent="true"
+        android:textSize="20dp" />
+
+</RelativeLayout>
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            app:headerLayout="@layout/header_layout"
+    app:menu="@menu/activity_main_drawer"
+    >
+
+    </com.google.android.material.navigation.NavigationView>
+</androidx.drawerlayout.widget.DrawerLayout>

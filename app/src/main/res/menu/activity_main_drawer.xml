@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/add_products"
+    android:title="Add Products"
+
+    />
+    <item
+        android:id="@+id/add_haram"
+        android:title="Add Haram Items"
+        android:icon="@drawable/haram_icon"
+
+        />
+    <item
+        android:id="@+id/add_hilal"
+        android:icon="@drawable/hilal_icon"
+        android:title="Add Hilal Items"
+        />
+    <item
+        android:id="@+id/sign_out"
+        android:title="Sign Out"
+        android:icon="@drawable/sign_out"
+        />
+
+</menu>
