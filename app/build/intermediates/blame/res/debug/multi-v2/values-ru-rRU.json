@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+            "outputFile": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.8.0.aar\\0c9e2427cd182109a5ba4053eb6fa4df\\res\\values-ru-rRU\\values-ru-rRU.xml",

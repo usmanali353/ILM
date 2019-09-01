@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
                     "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.8.0.aar\\0c9e2427cd182109a5ba4053eb6fa4df\\res\\values-id\\values-id.xml",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-zxing-android-embedded-3.6.0.aar\\893f381707a2e6985e0e2441e3d8849d\\res\\values-id\\values-id.xml",
+                    "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-zxing-android-embedded-3.6.0.aar\\737b77df3c3e131fd64c7782d046066f\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

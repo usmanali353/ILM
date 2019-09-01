@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-spots-dialog-1.1.aar\\10c04619c4cc10ce3a6db338753d6561\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-spots-dialog-1.1.aar\\b906ba8561a46aa933ab444ce66fd3ad\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

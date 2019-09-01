@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "outputFile": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\values-xlarge-v4\\values-xlarge-v4.xml",

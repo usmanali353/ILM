@@ -25,22 +25,22 @@ public final class R {
     public static final class dimen {
         private dimen() {}
 
-        public static final int progress_margin = 0x7f0600d3;
-        public static final int progress_width = 0x7f0600d4;
-        public static final int spot_size = 0x7f0600d5;
-        public static final int title_margin = 0x7f0600da;
-        public static final int title_padding = 0x7f0600db;
+        public static final int progress_margin = 0x7f0600cd;
+        public static final int progress_width = 0x7f0600ce;
+        public static final int spot_size = 0x7f0600cf;
+        public static final int title_margin = 0x7f0600d4;
+        public static final int title_padding = 0x7f0600d5;
     }
     public static final class drawable {
         private drawable() {}
 
-        public static final int dmax_spots_spot = 0x7f070080;
+        public static final int dmax_spots_spot = 0x7f07007b;
     }
     public static final class id {
         private id() {}
 
-        public static final int dmax_spots_progress = 0x7f08006c;
-        public static final int dmax_spots_title = 0x7f08006d;
+        public static final int dmax_spots_progress = 0x7f080065;
+        public static final int dmax_spots_title = 0x7f080066;
     }
     public static final class layout {
         private layout() {}

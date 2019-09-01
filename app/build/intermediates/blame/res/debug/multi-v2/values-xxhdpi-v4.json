@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "outputFile": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-1.9.aar\\7a64e1d313b41a5bbe1728e8fbf08781\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-1.9.aar\\3683ae69673a7a501224cd8a00d9e981\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
