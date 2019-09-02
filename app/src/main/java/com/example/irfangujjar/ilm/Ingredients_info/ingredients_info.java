@@ -1,6 +1,7 @@
 package com.example.irfangujjar.ilm.Ingredients_info;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.os.Bundle;
 
 import com.example.irfangujjar.ilm.Adapters.expandable_list_adapter;
@@ -15,6 +16,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
@@ -61,6 +63,25 @@ HashMap<String,List<String>> child;
         elv.setAdapter(new expandable_list_adapter(header_list,child));
         elv.expandGroup(0);
         elv.expandGroup(1);
+        String[] haram= check_for_haram_ingredients().toArray(new String[check_for_haram_ingredients().size()]);
+        Log.e("haram_size", String.valueOf(haram.length));
+        AlertDialog.Builder builder = new AlertDialog.Builder(ingredients_info.this);
+        builder.setTitle("This Product is Haram due to");
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+            }
+        });
+        builder.setItems(haram, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+               // Toast.makeText(ingredients_info.this, "Position: " + which + " Value: " + check_for_haram_ingredients().get(which), Toast.LENGTH_LONG).show();
+            }
+        });
+
+        AlertDialog dialog = builder.create();
+        dialog.show();
        //barcode= getIntent().getStringExtra("scanned_barcode");
 
     }
@@ -68,7 +89,7 @@ HashMap<String,List<String>> child;
 
       List<String> temp_ingredients=new ArrayList<>();
       for(String ingredient:halal_ingredients){
-        if(product_ingredients.contains(ingredient)){
+        if(product_ingredients.contains(ingredient.toLowerCase())){
             temp_ingredients.add(ingredient);
         }
       }
@@ -77,7 +98,7 @@ HashMap<String,List<String>> child;
   private List<String> check_for_haram_ingredients(){
       List<String> temp_ingredients=new ArrayList<>();
       for(String ingredient:haram_ingredients){
-          if(product_ingredients.contains(ingredient)){
+          if(product_ingredients.contains(ingredient.toLowerCase())){
               temp_ingredients.add(ingredient);
           }
       }

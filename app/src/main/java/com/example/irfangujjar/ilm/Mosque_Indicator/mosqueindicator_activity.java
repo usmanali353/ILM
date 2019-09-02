@@ -182,6 +182,7 @@ public class mosqueindicator_activity extends FragmentActivity implements OnMapR
                     public void onErrorResponse(VolleyError error) {
                         Log.e(TAG, "onErrorResponse: Error= " + error);
                         Log.e(TAG, "onErrorResponse: Error= " + error.getMessage());
+                        Toast.makeText(mosqueindicator_activity.this,error.getMessage(),Toast.LENGTH_LONG).show();
                     }
                 });
         RequestQueue requestQueue = Volley.newRequestQueue(mosqueindicator_activity.this);

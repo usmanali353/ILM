@@ -1,11 +1,11 @@
 [
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -20,12 +20,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mdtp_done_text_color.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\color\\mdtp_done_text_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -44,20 +48,28 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v21_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_date_picker_header_view_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_date_picker_header_view_v2.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mdtp_date_picker_selector.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\color\\mdtp_date_picker_selector.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_crop_image_menu_rotate_left.png.flat",
@@ -69,11 +81,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saqib.jpg.flat",
@@ -97,7 +105,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\anim\\design_snackbar_out.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_ingredients_info.xml.flat",
@@ -140,10 +148,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_arrow_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play_arrow_black_24dp.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -168,12 +172,12 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_crop_image_activity.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.8.0.aar\\0c9e2427cd182109a5ba4053eb6fa4df\\res\\layout\\crop_image_activity.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sign_out.png.flat",
@@ -188,36 +192,32 @@
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\tarijameel.jpg"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_time_header_label.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_time_header_label.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_arrow_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play_arrow_black_24dp.png"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play_arrow_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_play_arrow_black_24dp.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -242,6 +242,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_layout.xml.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_time_picker_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -273,7 +277,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\mtrl_chip_state_list_anim.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\mtrl_chip_state_list_anim.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -289,7 +293,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_navigation_item_header.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
@@ -301,7 +305,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -309,7 +313,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_legacy_text_color_selector.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -325,7 +329,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_expanded_list_layout.xml.flat",
@@ -345,7 +349,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-v21\\avd_hide_password.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -365,7 +369,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-v21\\avd_show_password.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -420,12 +424,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_menu_drawer.xml.flat",
+        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\menu\\user_menu_drawer.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_tabs_default_indicator.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\mtrl_tabs_default_indicator.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -440,12 +448,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_time_picker_dialog_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_time_picker_dialog_v2.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\af972380a020bb1cae20edbbf168463d\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_navigation_item.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hilal_icon.png.flat",
@@ -461,7 +473,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\design_snackbar_background.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -469,7 +481,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_saqib_raza.xml.flat",
@@ -480,16 +492,16 @@
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\layout\\activity_ocr.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_date_picker_dialog.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mufti_menk.xml.flat",
@@ -524,16 +536,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_navigation_menu.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_button.xml.flat",
@@ -557,7 +569,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_ripple_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_tabs_ripple_color.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_tabs_ripple_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
@@ -568,16 +580,16 @@
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\raw\\izazulzilatil.mp3"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mdtp_date_picker_year_selector.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\color\\mdtp_date_picker_year_selector.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -588,16 +600,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow_black_24dp.xml.flat",
+        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\ic_play_arrow_black_24dp.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -620,6 +632,14 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_picker_dialog_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_date_picker_dialog_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_date_picker_dialog_v2.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
@@ -634,6 +654,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_waizahaznamesaqa.mp3.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\raw\\waizahaznamesaqa.mp3"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_hijri_date_picker_header_view_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_hijri_date_picker_header_view_v2.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
@@ -657,7 +681,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\design_error.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\design_error.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
@@ -669,15 +693,19 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector_colored.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_hdp_mdtp_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-sw600dp-v13\\hdp_mdtp_date_picker_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
@@ -692,10 +720,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_play_circle_outline_black_24dp.xml.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_play_circle_outline_black_24dp.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
@@ -708,12 +732,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_date_picker_view_animator.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_date_picker_view_animator.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -760,6 +788,10 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
@@ -789,19 +821,19 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_text_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_chip_text_color.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_chip_text_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_bottom_nav_item_tint.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_bottom_nav_item_tint.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_bottom_nav_item_tint.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_bottom_nav_colored_item_tint.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -820,6 +852,10 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_time_picker_dialog.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_crop_image_menu_rotate_right.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.8.0.aar\\0c9e2427cd182109a5ba4053eb6fa4df\\res\\drawable-hdpi-v4\\crop_image_menu_rotate_right.png"
     },
@@ -832,28 +868,36 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_divider_material.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_list_divider_material.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_picker_selected_date.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_picker_selected_date.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13_hdp_mdtp_hijri_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-sw600dp-land-v13\\hdp_mdtp_hijri_date_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_date_picker_dialog_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_date_picker_dialog_v2.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_play_arrow_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_play_arrow_black_24dp.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_snackbar_background.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\mtrl_snackbar_background.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
@@ -861,7 +905,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_layout_snackbar.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_billi_philips.xml.flat",
@@ -872,16 +916,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play_circle_outline_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_play_circle_outline_black_24dp.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_chip_close_icon_tint.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_chip_close_icon_tint.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_crop_image_menu_rotate_left.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.8.0.aar\\0c9e2427cd182109a5ba4053eb6fa4df\\res\\drawable-hdpi-v4\\crop_image_menu_rotate_left.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_picker_view_animator.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_picker_view_animator.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
@@ -901,19 +945,19 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout\\abc_search_view.xml"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_done_button.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_done_button.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_circle_outline_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play_circle_outline_black_24dp.png"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
@@ -926,6 +970,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bilil_philips.jpg.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\bilil_philips.jpg"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mdtp_done_text_color_dark.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\color\\mdtp_done_text_color_dark.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
@@ -944,8 +992,8 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\layout\\notification_action.xml"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land_mdtp_done_background_color_dark.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
@@ -968,16 +1016,20 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_fab_ripple_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_fab_ripple_color.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_fab_ripple_color.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_circle_outline_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play_circle_outline_black_24dp.png"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_time_title_view.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_time_title_view.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -996,6 +1048,10 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_date_picker_header_view_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_date_picker_header_view_v2.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
@@ -1004,20 +1060,12 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include_material.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_layout_snackbar_include_material.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_yaseen.mp3.flat",
@@ -1042,6 +1090,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_mdtp_material_button_selected.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\drawable-v21\\mdtp_material_button_selected.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -1073,15 +1125,11 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_bottom_navigation_item_background.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_black.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1120,36 +1168,24 @@
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\raw\\muftimenkharamfood.mp4"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dmax_spots_spot.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-spots-dialog-1.1.aar\\b906ba8561a46aa933ab444ce66fd3ad\\res\\drawable\\dmax_spots_spot.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_colored_ripple_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_text_btn_text_color_selector.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_text_btn_text_color_selector.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_text_btn_text_color_selector.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1165,11 +1201,15 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_picker_selected_date_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_picker_selected_date_v2.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
@@ -1185,7 +1225,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_state_list_anim.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\mtrl_btn_state_list_anim.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\mtrl_btn_state_list_anim.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1193,11 +1233,11 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_chip_background_color.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_chip_background_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
@@ -1212,8 +1252,12 @@
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\raw\\qulaoozubrabil.mp3"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v19_mdtp_done_background_color.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\drawable-v19\\mdtp_done_background_color.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_navigation_item_separator.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -1232,8 +1276,12 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-w270dp-h560dp-v13_hdp_mdtp_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-w270dp-h560dp-v13\\hdp_mdtp_date_picker_dialog.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_navigation_menu_item.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_ulaikaalazenashtrawuzla.mp3.flat",
@@ -1280,10 +1328,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
@@ -1320,20 +1364,32 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_circle_outline_black_24dp.xml.flat",
+        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\ic_play_circle_outline_black_24dp.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_hatamallahuala.mp3.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\raw\\hatamallahuala.mp3"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_hdp_mdtp_hijri_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-sw600dp-v13\\hdp_mdtp_hijri_date_picker_dialog.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\af972380a020bb1cae20edbbf168463d\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_mdtp_material_button_background.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\drawable-v21\\mdtp_material_button_background.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1345,7 +1401,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
@@ -1384,6 +1440,10 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mdtp_done_background_color_dark.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_fequlubihimmarazun.mp3.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\raw\\fequlubihimmarazun.mp3"
     },
@@ -1408,10 +1468,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
@@ -1421,7 +1477,11 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_fast_out_slow_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_hijri_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_hijri_date_picker_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1429,7 +1489,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_ripple_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_btn_ripple_color.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_btn_ripple_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1437,7 +1497,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\design_fab_background.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1453,7 +1513,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_bg_color_selector.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_btn_bg_color_selector.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_btn_bg_color_selector.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -1476,16 +1536,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_year_label_text_view.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_year_label_text_view.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear_out_slow_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
@@ -1532,16 +1592,24 @@
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\tajweedback.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_date_picker_header_view.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_date_picker_header_view.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_text_input_password_icon.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_time_title_view_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_time_title_view_v2.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -1553,11 +1621,11 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_tabs_icon_color_selector.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_menu_item_action_area.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
@@ -1570,10 +1638,6 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_slow_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1590,10 +1654,6 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
@@ -1624,10 +1684,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_play_circle_outline_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_play_circle_outline_black_24dp.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -1652,10 +1708,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
@@ -1672,8 +1724,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\af972380a020bb1cae20edbbf168463d\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_picker_header_view.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_picker_header_view.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_time_picker_dialog_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_time_picker_dialog_v2.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1685,7 +1745,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\anim\\design_snackbar_in.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
@@ -1700,8 +1760,16 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_year_label_text_view.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_year_label_text_view.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upload_image.jpg.flat",
         "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\upload_image.jpg"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_date_picker_selected_date_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_date_picker_selected_date_v2.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
@@ -1713,11 +1781,15 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_time_title_view_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_time_title_view_v2.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1726,6 +1798,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_zxing_capture.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-zxing-android-embedded-3.6.0.aar\\737b77df3c3e131fd64c7782d046066f\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range_black_24dp.xml.flat",
+        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\drawable\\ic_date_range_black_24dp.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1744,16 +1820,12 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\design_password_eye.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-v21\\design_password_eye.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_tariqmasoodhalal.3GP.flat",
@@ -1833,7 +1905,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1841,7 +1913,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_show_motion_spec.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\design_fab_show_motion_spec.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\design_fab_show_motion_spec.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
@@ -1880,10 +1952,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_play_arrow_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_play_arrow_black_24dp.png"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -1898,10 +1966,6 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_linear_in.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
@@ -1933,19 +1997,11 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_color_selector.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_btn_text_color_selector.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_btn_text_color_selector.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_play_circle_outline_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_play_circle_outline_black_24dp.png"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1966,6 +2022,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-w270dp-h560dp-v13_hdp_mdtp_hijri_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-w270dp-h560dp-v13\\hdp_mdtp_hijri_date_picker_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1993,7 +2053,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_close_circle.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
@@ -2013,15 +2073,11 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_hide_motion_spec.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\design_fab_hide_motion_spec.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\design_fab_hide_motion_spec.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_btn_colored_material.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -2073,7 +2129,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_hide_motion_spec.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
@@ -2086,6 +2142,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_dmax_spots_spot.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-spots-dialog-1.1.aar\\b906ba8561a46aa933ab444ce66fd3ad\\res\\drawable-v21\\dmax_spots_spot.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_time_picker_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -2113,11 +2173,15 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_stroke_color_selector.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_btn_stroke_color_selector.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_navigation_item_subheader.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\mtrl_layout_snackbar_include.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -2184,6 +2248,10 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_picker_header_view_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_picker_header_view_v2.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -2193,11 +2261,23 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color-v23\\design_tint_password_toggle.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_time_header_label.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_time_header_label.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_ripple_color.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\mtrl_chip_ripple_color.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_hijri_date_picker_selected_date.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_hijri_date_picker_selected_date.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
@@ -2216,8 +2296,8 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_date_picker_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -2268,8 +2348,12 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_hijri_calendar_menu.xml.flat",
+        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\src\\main\\res\\menu\\hijri_calendar_menu.xml"
+    },
+    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -2290,6 +2374,10 @@
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\545cfb9116fc90a541ac32adb5396725\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13_hdp_mdtp_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-sw600dp-land-v13\\hdp_mdtp_date_picker_dialog.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_ingredients_header_layout.xml.flat",
@@ -2321,7 +2409,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_layout_tab_text.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -2380,10 +2468,6 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.8.0.aar\\0c9e2427cd182109a5ba4053eb6fa4df\\res\\drawable-xxhdpi-v4\\crop_image_menu_rotate_right.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\511dad1de0148ac07c6d3b50eed8539c\\res\\drawable\\notification_bg.xml"
     },
@@ -2405,7 +2489,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\interpolator\\mtrl_linear.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\interpolator\\mtrl_linear.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_crop_image_menu_flip.png.flat",
@@ -2428,8 +2512,12 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hdp_mdtp_date_picker_dialog.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout\\hdp_mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_hdp_mdtp_hijri_date_picker_dialog_v2.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\layout-land\\hdp_mdtp_hijri_date_picker_dialog_v2.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -2437,7 +2525,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\color\\design_tint_password_toggle.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
@@ -2457,7 +2545,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_show_motion_spec.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\animator\\mtrl_fab_show_motion_spec.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -2465,15 +2553,11 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-v21\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play_circle_outline_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_play_circle_outline_black_24dp.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
@@ -2497,7 +2581,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_circle.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -2505,7 +2589,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_bottom_navigation_item.xml"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -2533,7 +2617,7 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_yusufestate.xml.flat",
@@ -2548,8 +2632,8 @@
         "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\16b6390f6a896d109b672cbb17557739\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_play_arrow_black_24dp.xml.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_play_arrow_black_24dp.xml"
+        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-v19_mdtp_done_background_color.xml.flat",
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\drawable-land-v19\\mdtp_done_background_color.xml"
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
@@ -2561,10 +2645,6 @@
     },
     {
         "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
-        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-beta01.aar\\ecfad8e68ca2d65c7d7e72f665eb7a59\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play_arrow_black_24dp.png.flat",
-        "source": "F:\\old data\\Projects\\ILM-master\\ILM-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_play_arrow_black_24dp.png"
+        "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\cd1ca8c16673a3c4cbd7addd88f808c0\\res\\layout\\design_layout_snackbar_include.xml"
     }
 ]

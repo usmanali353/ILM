@@ -14,12 +14,31 @@
                         "endOffsets": "223"
                     },
                     "to": {
-                        "startLines": "3",
+                        "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
+                        "startOffsets": "219",
+                        "endLines": "7",
                         "endColumns": "12",
-                        "endOffsets": "289"
+                        "endOffsets": "387"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\WAQAR\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.1.0.aar\\84e346239cc5524558356103efaee9c0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,3,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,286,405",
+                        "endLines": "2,5,8,11",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "148,281,400,517"
+                    },
+                    "to": {
+                        "startLines": "3,8,11,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,392,525,644",
+                        "endLines": "3,10,13,16",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "214,520,639,756"
                     }
                 },
                 {

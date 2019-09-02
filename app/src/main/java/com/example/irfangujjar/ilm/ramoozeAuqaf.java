@@ -25,12 +25,16 @@ public class ramoozeAuqaf extends AppCompatActivity {
         description=n.getStringArrayExtra("desc");
         example=n.getStringArrayExtra("example");
         audio=n.getIntArrayExtra("audio");
+
         lstvewramz.setAdapter(new customAdapter(title,description,example,audio,ramoozeAuqaf.this));
         lstvewramz.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                    mediaPlayer=MediaPlayer.create(getApplicationContext(),audio[position]);
-                    mediaPlayer.start();
+                mediaPlayer=MediaPlayer.create(getApplicationContext(),audio[position]);
+                if(mediaPlayer.isPlaying()){
+                   mediaPlayer.stop();
+                }
+                mediaPlayer.start();
               //  Toast.makeText(getApplicationContext(),"hello"+audio[position],Toast.LENGTH_LONG).show();
 
             }

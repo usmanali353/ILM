@@ -25,10 +25,12 @@ import io.nlopez.smartlocation.SmartLocation;
 import android.preference.PreferenceManager;
 import android.provider.Settings;
 import android.util.Log;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.irfangujjar.ilm.Firebase_Operations.firebase_operations;
@@ -36,6 +38,7 @@ import com.example.irfangujjar.ilm.Mosque_Indicator.mosqueindicator_activity;
 import com.example.irfangujjar.ilm.OCR.OCR;
 import com.example.irfangujjar.ilm.Scholars.Islamicscholars_activity;
 import com.example.irfangujjar.ilm.tajweed.Tajweed_activity;
+import com.github.msarhan.ummalqura.calendar.UmmalquraCalendar;
 import com.google.android.gms.location.LocationServices;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
@@ -43,6 +46,8 @@ import com.google.firebase.firestore.CollectionReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
+
+import net.alhazmy13.hijridatepicker.date.hijri.HijriDatePickerDialog;
 
 public class MainActivity extends AppCompatActivity {
     public Button btn_taj;
@@ -54,7 +59,32 @@ public class MainActivity extends AppCompatActivity {
     EditText barcode;
     SharedPreferences prefs;
     CollectionReference products_ref,halal_ref,haram_ref;
+    TextView date_txt;
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.hijri_calendar_menu,menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if(item.getItemId()==R.id.show_calendar){
+            UmmalquraCalendar now = new UmmalquraCalendar();
+            HijriDatePickerDialog dpd = HijriDatePickerDialog.newInstance(
+                    new HijriDatePickerDialog.OnDateSetListener() {
+                        @Override
+                        public void onDateSet(HijriDatePickerDialog view, int year, int monthOfYear, int dayOfMonth) {
+
+                        }
+                    },
+                    now.get(UmmalquraCalendar.YEAR),
+                    now.get(UmmalquraCalendar.MONTH),
+                    now.get(UmmalquraCalendar.DAY_OF_MONTH));
+            dpd.show(getFragmentManager(), "HijriDatePickerDialog");
+        }
+        return super.onOptionsItemSelected(item);
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -64,6 +94,10 @@ public class MainActivity extends AppCompatActivity {
         products_ref=FirebaseFirestore.getInstance().collection("Products");
         halal_ref=FirebaseFirestore.getInstance().collection("Halal");
         haram_ref=FirebaseFirestore.getInstance().collection("Haram");
+        date_txt=findViewById(R.id.date);
+        long millis=System.currentTimeMillis();
+        java.util.Date date=new java.util.Date(millis);
+        date_txt.setText(date.toString());
         halal_btn=(Button)findViewById(R.id.halal_button);
         ocr=findViewById(R.id.ocr_button);
         toolbar=findViewById(R.id.toolbar);
@@ -72,9 +106,13 @@ public class MainActivity extends AppCompatActivity {
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if(prefs.getString("user_type",null).equals("User")){
-            toolbar.setVisibility(View.GONE);
-            drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
+           // toolbar.setVisibility(View.GONE);
+            navigationView.inflateMenu(R.menu.user_menu_drawer);
+            //drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
+        }else{
+            navigationView.inflateMenu(R.menu.activity_main_drawer);
         }
+
 
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.open_drawer,R.string.close_drawer);
@@ -134,9 +172,9 @@ public class MainActivity extends AppCompatActivity {
         mosqueindicator_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                forward_to_google_maps_apologizingly();
-               /* Intent i = new Intent(MainActivity.this, mosqueindicator_activity.class);
-                startActivity(i);*/
+               // forward_to_google_maps_apologizingly();
+                Intent i = new Intent(MainActivity.this, mosqueindicator_activity.class);
+                startActivity(i);
             }
         });
     }

@@ -5,7 +5,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.example.irfangujjar.ilm"
-        minSdkVersion 17
+        minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -31,6 +31,7 @@ dependencies {
     implementation 'de.hdodenhof:circleimageview:3.0.0'
     implementation 'androidx.recyclerview:recyclerview:1.0.0-beta01'
     implementation 'androidx.cardview:cardview:1.0.0-beta01'
+    implementation 'net.alhazmy13.hijridatepicker:library:2.1.0'
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'androidx.appcompat:appcompat:1.0.0-beta01'
     implementation 'com.rmtheis:tess-two:9.0.0'

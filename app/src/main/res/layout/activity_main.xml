@@ -16,11 +16,21 @@
      <include
          layout="@layout/toolbar"
          />
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/date"
+       android:layout_below="@+id/toolbar"
+       android:layout_marginTop="10dp"
+       android:textSize="30sp"
+       android:textColor="@android:color/white"
+       android:textAlignment="center"
+       />
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="#000"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="140dp"
         android:layout_marginRight="20dp"
         android:layout_marginLeft="20dp"></View>
 
@@ -92,7 +102,6 @@
             android:layout_height="match_parent"
             android:layout_gravity="start"
             app:headerLayout="@layout/header_layout"
-    app:menu="@menu/activity_main_drawer"
     >
 
     </com.google.android.material.navigation.NavigationView>

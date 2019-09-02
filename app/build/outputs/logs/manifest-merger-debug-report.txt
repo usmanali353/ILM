@@ -4,17 +4,17 @@ ADDED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManife
 INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml:2:1-78:12
 INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml:2:1-78:12
 INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml:2:1-78:12
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\33d51ee44ddbb703c20b7ddc9dd2fb95\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\ecfad8e68ca2d65c7d7e72f665eb7a59\AndroidManifest.xml:17:1-24:12
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.8.0.aar\0c9e2427cd182109a5ba4053eb6fa4df\AndroidManifest.xml:2:1-11:12
+MERGED from [net.alhazmy13.hijridatepicker:library:2.1.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.0.aar\84e346239cc5524558356103efaee9c0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd1ca8c16673a3c4cbd7addd88f808c0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\16b6390f6a896d109b672cbb17557739\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b60c15a3e2e4b21a2aba29db599798e9\AndroidManifest.xml:2:1-11:12
 MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-3.3.3.aar\42c75410a3e1ef78608e41e538d7f669\AndroidManifest.xml:2:1-30:12
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\play-services-location-17.0.0.aar\ca2bfe786c6b2eb6954446ca04df0cd6\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\030a1f0984b84721be385ceac4eb976a\AndroidManifest.xml:17:1-38:12
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\ddcfc99506feab267138808b4205e9c1\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-beta01.aar\fb547640c0d20bddb58362a2034a5f53\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-beta01.aar\a41fcaf72c462a41212e887a94269716\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\918755e0b3d501478c57d44c40b8f136\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\2e4ba50a43b5d5765255d5b57c973369\AndroidManifest.xml:17:1-22:12
 MERGED from [com.rmtheis:tess-two:9.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-tess-two-9.0.0.aar\424c12ffb1db560ab5bd638ab3181226\AndroidManifest.xml:17:1-26:12
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\b9f389d817cca1034530f353a2014797\AndroidManifest.xml:2:1-13:12
 MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.6.0.aar\737b77df3c3e131fd64c7782d046066f\AndroidManifest.xml:17:1-56:12
@@ -29,14 +29,16 @@ MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\WAQAR\.gradle\
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\5c06b1e90c9bc0771a8385209617532c\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73b6e8c8a7c2e838d2c19df9f811a4b6\AndroidManifest.xml:17:1-28:12
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.aar\3683ae69673a7a501224cd8a00d9e981\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\63d9d033de28ea5c374d9d0864768086\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\937b4e013849014b8832e3ec050e86ac\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4f24233f0feb73dbf2c21cd4a2f6fe7d\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-beta01.aar\e12bcfc90267b4bfb63ac41b84ddf17f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\3f7e6f72d13ec64f8dfc6f9240cd2737\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\89624761e25a38bda2a5d7ac30f4ceb4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\0d2518f92675515df8816c69ce33b8e7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\15c06bdf0e6282c0dabdaec2578b2caf\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\532724e59584fd6491ce45dd9aa47cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\b1c0d173bde6c13bdcd20840a54cc0a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\af972380a020bb1cae20edbbf168463d\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\e4a128793eaec15af6d3dbc92cf8aa09\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\b0c07206746870f01884b8758d0254bd\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\5c459e366b360142501aabd76fd57ea2\AndroidManifest.xml:17:1-22:12
@@ -45,7 +47,6 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\WAQAR\
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\0fa6cf52fe6170b34d25da08c7c976e9\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\eb51fdf3804dc2d0fffd0d1f6ccdba80\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d023bb38da122ffde6e2e818e17caa8b\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\af972380a020bb1cae20edbbf168463d\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\511dad1de0148ac07c6d3b50eed8539c\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\749f9a978e5fc1081f29491294c33e0a\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c77041a96a5c8ae91e48cd4597f0e242\AndroidManifest.xml:17:1-22:12
@@ -126,8 +127,10 @@ MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\WAQAR\.g
 		ADDED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml:18:9-32
 application
 ADDED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml:19:5-76:19
-MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\ecfad8e68ca2d65c7d7e72f665eb7a59\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\ecfad8e68ca2d65c7d7e72f665eb7a59\AndroidManifest.xml:22:5-20
+MERGED from [net.alhazmy13.hijridatepicker:library:2.1.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.0.aar\84e346239cc5524558356103efaee9c0\AndroidManifest.xml:28:5-20
+MERGED from [net.alhazmy13.hijridatepicker:library:2.1.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.0.aar\84e346239cc5524558356103efaee9c0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd1ca8c16673a3c4cbd7addd88f808c0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd1ca8c16673a3c4cbd7addd88f808c0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b60c15a3e2e4b21a2aba29db599798e9\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b60c15a3e2e4b21a2aba29db599798e9\AndroidManifest.xml:9:5-20
 MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-3.3.3.aar\42c75410a3e1ef78608e41e538d7f669\AndroidManifest.xml:18:5-28:19
@@ -278,12 +281,12 @@ uses-sdk
 INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml
 INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\33d51ee44ddbb703c20b7ddc9dd2fb95\AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\33d51ee44ddbb703c20b7ddc9dd2fb95\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\ecfad8e68ca2d65c7d7e72f665eb7a59\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0-beta01.aar\ecfad8e68ca2d65c7d7e72f665eb7a59\AndroidManifest.xml:20:5-44
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.8.0.aar\0c9e2427cd182109a5ba4053eb6fa4df\AndroidManifest.xml:7:5-9:41
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.8.0.aar\0c9e2427cd182109a5ba4053eb6fa4df\AndroidManifest.xml:7:5-9:41
+MERGED from [net.alhazmy13.hijridatepicker:library:2.1.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.0.aar\84e346239cc5524558356103efaee9c0\AndroidManifest.xml:22:5-24:41
+MERGED from [net.alhazmy13.hijridatepicker:library:2.1.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.0.aar\84e346239cc5524558356103efaee9c0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd1ca8c16673a3c4cbd7addd88f808c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd1ca8c16673a3c4cbd7addd88f808c0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\16b6390f6a896d109b672cbb17557739\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\16b6390f6a896d109b672cbb17557739\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\b60c15a3e2e4b21a2aba29db599798e9\AndroidManifest.xml:5:5-7:41
@@ -296,10 +299,10 @@ MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\WAQAR\.g
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\030a1f0984b84721be385ceac4eb976a\AndroidManifest.xml:20:5-44
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\ddcfc99506feab267138808b4205e9c1\AndroidManifest.xml:5:5-7:41
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\ddcfc99506feab267138808b4205e9c1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-beta01.aar\fb547640c0d20bddb58362a2034a5f53\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-beta01.aar\fb547640c0d20bddb58362a2034a5f53\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-beta01.aar\a41fcaf72c462a41212e887a94269716\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-beta01.aar\a41fcaf72c462a41212e887a94269716\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\918755e0b3d501478c57d44c40b8f136\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\918755e0b3d501478c57d44c40b8f136\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\2e4ba50a43b5d5765255d5b57c973369\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\2e4ba50a43b5d5765255d5b57c973369\AndroidManifest.xml:20:5-44
 MERGED from [com.rmtheis:tess-two:9.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-tess-two-9.0.0.aar\424c12ffb1db560ab5bd638ab3181226\AndroidManifest.xml:22:5-24:41
 MERGED from [com.rmtheis:tess-two:9.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-tess-two-9.0.0.aar\424c12ffb1db560ab5bd638ab3181226\AndroidManifest.xml:22:5-24:41
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\b9f389d817cca1034530f353a2014797\AndroidManifest.xml:7:5-9:41
@@ -328,12 +331,12 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\WAQA
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\73b6e8c8a7c2e838d2c19df9f811a4b6\AndroidManifest.xml:20:5-44
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.aar\3683ae69673a7a501224cd8a00d9e981\AndroidManifest.xml:7:5-9:41
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.aar\3683ae69673a7a501224cd8a00d9e981\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\63d9d033de28ea5c374d9d0864768086\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\63d9d033de28ea5c374d9d0864768086\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\937b4e013849014b8832e3ec050e86ac\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\937b4e013849014b8832e3ec050e86ac\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4f24233f0feb73dbf2c21cd4a2f6fe7d\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4f24233f0feb73dbf2c21cd4a2f6fe7d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-beta01.aar\e12bcfc90267b4bfb63ac41b84ddf17f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-beta01.aar\e12bcfc90267b4bfb63ac41b84ddf17f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\3f7e6f72d13ec64f8dfc6f9240cd2737\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\3f7e6f72d13ec64f8dfc6f9240cd2737\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\89624761e25a38bda2a5d7ac30f4ceb4\AndroidManifest.xml:20:5-44
@@ -344,6 +347,10 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WAQAR\.gr
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\15c06bdf0e6282c0dabdaec2578b2caf\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\532724e59584fd6491ce45dd9aa47cdb\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\532724e59584fd6491ce45dd9aa47cdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\b1c0d173bde6c13bdcd20840a54cc0a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\b1c0d173bde6c13bdcd20840a54cc0a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\af972380a020bb1cae20edbbf168463d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\af972380a020bb1cae20edbbf168463d\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\e4a128793eaec15af6d3dbc92cf8aa09\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\e4a128793eaec15af6d3dbc92cf8aa09\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\b0c07206746870f01884b8758d0254bd\AndroidManifest.xml:20:5-44
@@ -360,8 +367,6 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WAQA
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\eb51fdf3804dc2d0fffd0d1f6ccdba80\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d023bb38da122ffde6e2e818e17caa8b\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d023bb38da122ffde6e2e818e17caa8b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\af972380a020bb1cae20edbbf168463d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\af972380a020bb1cae20edbbf168463d\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\511dad1de0148ac07c6d3b50eed8539c\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\511dad1de0148ac07c6d3b50eed8539c\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\749f9a978e5fc1081f29491294c33e0a\AndroidManifest.xml:20:5-44
@@ -402,6 +407,10 @@ INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidMan
 		INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml
 		ADDED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml
 		INJECTED from F:\old data\Projects\ILM-master\ILM-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [net.alhazmy13.hijridatepicker:library:2.1.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.0.aar\84e346239cc5524558356103efaee9c0\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [net.alhazmy13.hijridatepicker:library:2.1.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.0.aar\84e346239cc5524558356103efaee9c0\AndroidManifest.xml:26:22-63
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\jetified-library-3.3.3.aar\42c75410a3e1ef78608e41e538d7f669\AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\WAQAR\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\030a1f0984b84721be385ceac4eb976a\AndroidManifest.xml:23:5-79
