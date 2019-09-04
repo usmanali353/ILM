@@ -30,15 +30,22 @@ public class ramoozeAuqaf extends AppCompatActivity {
         lstvewramz.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                mediaPlayer=MediaPlayer.create(getApplicationContext(),audio[position]);
-                if(mediaPlayer.isPlaying()){
-                   mediaPlayer.stop();
+                if(mediaPlayer!=null){
+                    mediaPlayer.release();
                 }
+                mediaPlayer=MediaPlayer.create(getApplicationContext(),audio[position]);
                 mediaPlayer.start();
               //  Toast.makeText(getApplicationContext(),"hello"+audio[position],Toast.LENGTH_LONG).show();
-
             }
         });
 
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        if(mediaPlayer!=null) {
+            mediaPlayer.release();
+        }
     }
 }

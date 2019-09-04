@@ -19,11 +19,9 @@ public class tariqmasood extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tariqmsood);
-
         tmasodplay1=(Button)findViewById(R.id.tmasoodbtnplay);
         tmasoodview1=(VideoView)findViewById(R.id.tmasoodvv1);
         tmasoodmediac=new MediaController(this);
-
     }
     public void videoplay (View v)
     {
